@@ -1,6 +1,6 @@
 # Hi, I’m @Iamalok007👋
 
-![nftgithub](https://user-images.githubusercontent.com/97467835/195439336-1808a27d-ce16-4674-a288-4ea00a03d41a.png)
+
 
 
 
