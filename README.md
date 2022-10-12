@@ -1,6 +1,6 @@
 # Hi, I’m @Iamalok007👋
 
-<img src="https://mfnd.org/nft/ghosted-cryptoking-mars-x-cryptoking-mars-eve-nft/"/)
+<img src="https://mfnd.org/nft/ghosted-cryptoking-mars-x-cryptoking-mars-eve-nft" style="width:100%;"/)
 
 I am student and a developer 
 
