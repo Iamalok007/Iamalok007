@@ -7,9 +7,9 @@
 I am student and a developer 
 
 
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Machine Learning related projects.
+- 👀 I’m interested in web dev.
+- 🌱 I’m currently learning back end.
+- 💞️ I’m looking to collaborate on web dev related projects.
 - 📫 How to reach me gmail=>(mailto:fourth007dimensions@gmail.com)
 
 ## My skills 😎 
